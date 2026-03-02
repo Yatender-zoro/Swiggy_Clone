@@ -17,7 +17,8 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npx parcel Index.html"
+    "start": "npx parcel Index.html",
+    "build": "parcel build Index.html"
   },
   "keywords": [],
   "author": "",
