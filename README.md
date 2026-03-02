@@ -56,6 +56,8 @@ Tailwind utility-first styling
 CORS handled for API requests
 
 📂 Project Structure
+
+
 Swiggy_Clone/
 │
 ├── index.html
@@ -66,6 +68,8 @@ Swiggy_Clone/
 │   ├── redux/
 │   ├── utils/
 │   └── index.css
+
+
 ⚙️ Installation & Setup
 
 Clone the repository:
